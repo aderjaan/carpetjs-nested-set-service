@@ -1,7 +1,7 @@
 {
   "name": "carpetjs-nested-set-service",
   "description": "CarpetJS service extension for mongoose-nested-set",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Ruben Stolk <ruben.stolk@safetychanger.com>",
   "contributors": [],
   "license": "MIT",
@@ -23,6 +23,7 @@
     "lib/"
   ],
   "dependencies": {
-    "mongoose-nested-set": "latest"
+    "mongoose-nested-set": "latest",
+    "async": "latest"
   }
 }
